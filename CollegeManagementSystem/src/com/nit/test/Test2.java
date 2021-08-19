@@ -10,8 +10,8 @@ public class Test2 {
 
 	public static void m1() {
 
-		System.out.println("m1 method");
-		System.out.println("abc12345");
+		System.out.println("m1 method:1234");
+		System.out.println("abc123");
 
 	}
 
