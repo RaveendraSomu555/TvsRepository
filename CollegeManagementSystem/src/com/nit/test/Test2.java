@@ -7,5 +7,11 @@ public class Test2 {
 		System.out.println("Test2 file");
 
 	}
+	
+	public static void m1() {
+		
+		System.out.println("m1 method");
+		
+	}
 
 }
